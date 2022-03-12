@@ -1,0 +1,40 @@
+
+body {
+    background-color: hsl(212, 45%, 89%) ;
+}
+/*white box*/
+.box {
+    background-color: hsl(0, 0%,100%);
+    height: 500px;
+    width: 325px;
+    margin: auto;
+    margin-top: 125px;
+    border-radius: 18px;
+}
+
+/*QR code */
+img {
+    height: 293px;
+    width: 293px;
+    margin: 16px 16px 5px 16px;
+    border-radius: 12px;  
+}
+
+/*text*/
+h1, p {
+    padding:0 33px 0 33px ;
+    text-align: center;
+}
+
+h1 {
+    font-family: outfit ;
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-family: outfit;
+    font-weight: 400px;
+    color:hsl(220, 15%, 55%) ;   
+}
